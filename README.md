@@ -207,9 +207,6 @@ This project is licensed under the MIT License.
 
 **Sai Venkata Gopi**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
 ---
 
 ⭐ If you like this project, don't forget to **Star** the repository!
