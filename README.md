@@ -208,5 +208,3 @@ This project is licensed under the MIT License.
 **Sai Venkata Gopi**
 
 ---
-
-⭐ If you like this project, don't forget to **Star** the repository!
