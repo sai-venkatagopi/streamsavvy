@@ -1,0 +1,15 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7admal4zl67YrxIo1IGseo9n.jpg",
+      "description": "Dream within a dream."
+    }
+    // ... other movies
+  ],
+  "users": [],
+  "favorites": [] 
+}
